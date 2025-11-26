@@ -144,12 +144,7 @@ public class Main {
             }
 
             // Bad: sleeping in loop
-            try {
-                Thread.sleep(1);
-            } catch (Exception e) {
-                excpetion (e)
-            }
-            console.log(1)
+
 
             // Bad: unused object
             Object o = new Object();
